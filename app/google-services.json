@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "225946004471",
+    "firebase_url": "https://sifgmdes.firebaseio.com",
+    "project_id": "sifgmdes",
+    "storage_bucket": "sifgmdes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225946004471:android:5598e8da0144d2da",
+        "android_client_info": {
+          "package_name": "br.com.tenentecnologia.mfp8push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225946004471-99p3ruert82k2in88r8tsit2kef63pn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tenentecnologia.mfp8push",
+            "certificate_hash": "a05f819f677527fd3bf9fc19bea81a82f813d6f3"
+          }
+        },
+        {
+          "client_id": "225946004471-sj319l3lhfu4c5m3hb6od2vhu2rd3asu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEJWcTkMr_t5tNzqAdB0Hdx7-H-JEUznQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225946004471-sj319l3lhfu4c5m3hb6od2vhu2rd3asu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225946004471:android:02a5465434c222ff",
+        "android_client_info": {
+          "package_name": "br.gov.caixa.fgts.trabalhador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225946004471-sj319l3lhfu4c5m3hb6od2vhu2rd3asu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEJWcTkMr_t5tNzqAdB0Hdx7-H-JEUznQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225946004471-sj319l3lhfu4c5m3hb6od2vhu2rd3asu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
